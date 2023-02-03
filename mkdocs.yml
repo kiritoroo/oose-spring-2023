@@ -1,0 +1,32 @@
+site_name: OOSE Spring 2023
+site_url: https://kiritoroo.github.io/oose-spring-2023/
+
+theme: material
+
+markdown_extensions:
+  - def_list
+  - tables
+  - attr_list
+  - admonition
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true 
+
+nav:
+  - 'About': 'about.md'
+  - 'Progress': 'index.md'
+  - 'Content': 
+    - 'Chapter 1': 'assignment/chapter1/chapter1.md'
+    - 'Chapter 2': 'assignment/chapter2/chapter2.md'
+    - 'Chapter 3': 'assignment/chapter3/chapter3.md'
