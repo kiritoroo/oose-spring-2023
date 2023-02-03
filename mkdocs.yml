@@ -24,8 +24,8 @@ markdown_extensions:
       alternate_style: true 
 
 nav:
-  - 'About': 'about.md'
-  - 'Progress': 'index.md'
+  - 'About': 'index.md'
+  - 'Progress': 'progress.md'
   - 'Content': 
     - 'Chapter 1': 'assignment/chapter1/chapter1.md'
     - 'Chapter 2': 'assignment/chapter2/chapter2.md'
