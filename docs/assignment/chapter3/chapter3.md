@@ -12,7 +12,7 @@ Hầu hết *functions* sẽ yêu cầu dữ liệu để hoạt động. Và d�
 ## 3. Encapsulation
 > **Tính đóng gói (Encapsulation)** được hiểu nôm na là các *data* và các *functions/methods* có liên quan được đóng gói với nhau thành các *class* để tiện cho việc quản lý cũng như sử dụng. Nó có thể tránh được các vấn đề xung đột dữ liệu xảy ra.
 
-## 3. Objects
+## 4. Objects
 > **Các đối tượng trong thế giới thực** đều được đặc trưng bởi *data* và *behaviour*.
 
 Ví dụ như 1 chiếc TV là một đối tượng, nó có các dữ liệu như là các kênh, tần số quét, độ sáng, độ phân giải,...Và nó cũng có các hoạt động như là tắt mở, chuyển kênh,...Ở đây chúng ta cũng có thể trình bày các thông tin trên bằng cách ghi dưới dạng *modules* như những gì đã nhắc ở trên.
@@ -22,10 +22,10 @@ Ví dụ như 1 chiếc TV là một đối tượng, nó có các dữ liệu n
 Vì thế, chúng ta có thể gọi các modules là các *Đối tượng/Objects*.
 
 Chúng ta có thể thay đổi các *Objects* để phù hợp với ngữ cảnh. Vì thế mà *OOP* phản ánh khá tốt về thế giới thực. Khi có vấn đề cần phải thay đổi thì giải giáp sẽ rất dễ dàng.
-## 4. Terminology
+## 5. Terminology
 > **Dữ liệu/Data** của một đối tượng thường được gọi là các ***==Thuộc tính/Attributes==***.
 Các hành vi khác nhau của mỗi đối tượng được gọi là các ***==Phương thức/Methods==***.
 ***==Lớp/Class==*** là một khuôn mẫu của mỗi đối tượng. Mỗi lớp sẽ diễn tả các thuộc tính cũng như các phương thức tồn tại.
-## 5. The Object Oriented Strategy
+## 6. The Object Oriented Strategy
 
-## 6. Summary
+## 7. Summary
