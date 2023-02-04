@@ -19,20 +19,20 @@
     | The Spiral Model                                             | None                                            | :white_large_square:  |
     | Iterative, Incremental Frameworks                            | None                                            | :white_large_square:  |
     | Time Boxing                                                  | None                                            | :white_large_square:  |
-    | Typical Project Timings                                      | None                                            | :white_large_square:  |
-    | Summary                                                      | None                                            | :white_large_square:  |
+    | Typical Project Timings                                      | [Le Trung](https://github.com/kiritoroo)        | :white_large_square:  |
+    | Summary                                                      | [Le Trung](https://github.com/kiritoroo)        | :white_large_square:  |
 
-??? failure "Chapter 3"
+??? success "Chapter 3"
 
     | <div style="width:420px">Content</div>                       | <div style="width:120px">Assign</div>           | Status                |
     | ------------------------------------------------------------ | :--------------------------------------------:  | :-------------------: |
-    | Structured Programming                                       | None                                            | :white_large_square:  |
-    | The Object Orientated Approach                               | None                                            | :white_large_square:  |
-    | Encapsulation                                                | None                                            | :white_large_square:  |
-    | Objects                                                      | None                                            | :white_large_square:  |
-    | Terminology                                                  | None                                            | :white_large_square:  |
-    | The Object Oriented Strategy                                 | None                                            | :white_large_square:  |
-    | Summary                                                      | None                                            | :white_large_square:  |
+    | Structured Programming                                       | [Xuan Hieu](https://github.com/XuanHieuHo)      | :white_check_mark:    |
+    | The Object Orientated Approach                               | [Xuan Hieu](https://github.com/XuanHieuHo)      | :white_check_mark:    |
+    | Encapsulation                                                | [Xuan Hieu](https://github.com/XuanHieuHo)      | :white_check_mark:    |
+    | Objects                                                      | [Xuan Hieu](https://github.com/XuanHieuHo)      | :white_check_mark:    |
+    | Terminology                                                  | [Xuan Hieu](https://github.com/XuanHieuHo)      | :white_check_mark:    |
+    | The Object Oriented Strategy                                 | [Le Trung](https://github.com/kiritoroo)        | :white_check_mark:    |
+    | Summary                                                      | [Le Trung](https://github.com/kiritoroo)        | :white_check_mark:    |
 
 ## Week 2 - *2023/02/08*
 
