@@ -2,7 +2,7 @@
 
 ## Week 1 - *2023/02/01*
 
-??? success "Chapter 1"
+??? success "Chapter 1 - An Introduction to the UML"
 
     | <div style="width:420px">Content</div>                       | <div style="width:120px">Assign</div>           | Status                |
     | ------------------------------------------------------------ | :--------------------------------------------:  | :-------------------: |
@@ -10,7 +10,7 @@
     | A Common Language                                            | [Le Trung](https://github.com/kiritoroo)        | :white_check_mark:    |
     | Summary                                                      | [Le Trung](https://github.com/kiritoroo)        | :white_check_mark:    |
 
-??? success "Chapter 2"
+??? success "Chapter 2 - The UML within a Development Process"
 
     | <div style="width:420px">Content</div>                       | <div style="width:120px">Assign</div>           | Status                |
     | ------------------------------------------------------------ | :--------------------------------------------:  | :-------------------: |
@@ -23,7 +23,7 @@
     | The Rational Unified Process                                 | [Le Trung](https://github.com/kiritoroo)        | :white_check_mark:    |
     | Summary                                                      | [Le Trung](https://github.com/kiritoroo)        | :white_check_mark:    |
 
-??? success "Chapter 3"
+??? success "Chapter 3 - Object Orientation"
 
     | <div style="width:420px">Content</div>                       | <div style="width:120px">Assign</div>           | Status                |
     | ------------------------------------------------------------ | :--------------------------------------------:  | :-------------------: |
