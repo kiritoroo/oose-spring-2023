@@ -1,3 +1,5 @@
+# Chapter 1 - An Introduction to the UML
+
 ![bg](img/img_02.png){width=100% align=center}
 
 ## 1. What is the UML ?
@@ -29,13 +31,19 @@ Giúp mô hình hóa các giải pháp phần mềm, cấu trúc ứng dụng, h
 
 <figure>
   <img src="../img/img_01.png" width="512">
-  <figcaption>UML Diagram Type</figcaption>
+  <figcaption>UML Diagram Types</figcaption>
 </figure>
 
 ## 2. A Common Language
+* **Booch (Grady Booch)**: Được phát triển bởi Grady Booch rất xuất sắc về thiết kế và triển khai. Mặc dù phương pháp mạnh mẽ nhưng ít được đón nhận.
+* **OMT**: Object Modelling Technique được coi là một trong những phương pháp lập mô hình hướng đối tượng đầu tiên. Nó đặc biệt hữu ích để phân tích các hệ thống thông tin chuyên sâu về dữ liệu.
+* **OOSE**: được áp dụng rộng rãi trong ngành công nghiệp phát triển phần mềm và được coi là một cách tiếp cận tích hợp và toàn diện đối với công nghệ phần mềm.
 
 ## 3. Summary
-
+* UML ban đầu được thiết kế bởi Three Amigos tại Rational Corp 
+* UML cung cấp các ký hiệu để xây dựng các mô hình
+* UML được áp dụng như một ngôn ngữ duy nhất trong ngành
+* UML rất phong phú và mang nhiều khía cạnh của công nghệ phần mềm
 
 ### References
 - [Creately Blog](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
