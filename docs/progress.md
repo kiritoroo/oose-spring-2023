@@ -14,7 +14,7 @@
 
     | <div style="width:420px">Content</div>                       | <div style="width:120px">Assign</div>           | Status                |
     | ------------------------------------------------------------ | :--------------------------------------------:  | :-------------------: |
-    | The UML as a Notation                                        | None                                            | :white_large_square:  |
+    | The UML as a Notation                                        | [Thanh Tuyet]                                   | :white_large_square:  |
     | The Waterfall Model                                          | None                                            | :white_large_square:  |
     | The Spiral Model                                             | None                                            | :white_large_square:  |
     | Iterative, Incremental Frameworks                            | None                                            | :white_large_square:  |
