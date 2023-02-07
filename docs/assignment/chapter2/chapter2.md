@@ -70,5 +70,32 @@ Chia thành 4 giai đoạn chính:
 
 ## 6. Typical Project Timings
 
-## 7. Summary
+Thời gian cho một dự án phát triển phần mềm có thể khác nhau rất nhiều tùy thuộc vào các yếu tố như:
 
+* Phạm vi của dự án
+* Độ phức tạp của hệ thống
+* Quy mô của nhóm phát triển
+* Các tài nguyên sẵn có
+
+## 7. The Rational Unified Process
+
+<figure>
+  <img src="../img/img3.png" width="512">
+  <figcaption>RUP Framework</figcaption>
+</figure>
+
+> RUP là một phương pháp triển khai phần mềm do Rational Software tạo ra. RUP là một mô hình quy trình lặp đi lặp lại và gia tăng, cung cấp cách tiếp cận linh hoạt và có thể tùy chỉnh để phát triển phần mềm.
+
+RUP dựa trên UML và cung cấp một tập hợp các phương pháp và kĩ thuật tốt nhất để phát triển phần mềm.
+RUP được chia thành bốn giai đoạn
+
+* Inception
+* Elaboration
+* Construction
+* Transition
+
+## 8. Summary
+
+* Iterative, Incremental frameworks lại là các phương pháp phát triển phần mềm nhấn mạnh vào sự phát triển lặp đi lặp lại và gia tăng,
+* Iterative, Incremental framework mang lại nhiều lợi ích so với các quy trình truyền thống.
+* 4 giai đoạn của RUP là: **Khởi động** (Inception), **Chuẩn bị** (Elaboration), **Xây dựng** (Construction) và **Chuyển tiếp** (Transition)

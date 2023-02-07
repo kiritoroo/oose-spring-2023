@@ -26,7 +26,8 @@ markdown_extensions:
 nav:
   - 'About': 'index.md'
   - 'Progress': 'progress.md'
-  - 'Content': 
+  - 'Contents': 
     - 'Chapter 1': 'assignment/chapter1/chapter1.md'
     - 'Chapter 2': 'assignment/chapter2/chapter2.md'
     - 'Chapter 3': 'assignment/chapter3/chapter3.md'
+  - 'Resource': 'resource/resource.md'
