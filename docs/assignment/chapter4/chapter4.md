@@ -17,14 +17,14 @@ Tất cả những người này đều quan tâm đến các khía cạnh khác
 ## 1. The Use Case Diagram
 > Biểu đổ Use Case là một sự mô tả hành vi của hệ thống dưới góc nhìn của người dùng. Biểu đồ này giúp ích rất nhiều cho Analysis vì nó giúp ta có thể hiểu được các yêu cầu của hệ thống đó.
 <figure>
-  <img src="../img/img_01.jpg" width="512">
+  <img src="../img/img_01.JPG" width="512">
   <figcaption>The Use Case Diagram</figcaption>
 </figure>
 
 ## 2. The Class Diagram
 > Biểu đồ Lớp mô tả kiểu của các đối tượng trong hệ thống và các quan hệ(relationship) khác nhau tồn tại giữa chúng. Đây là biểu đồ hay dùng nhất trong UML và gần gũi với các lập trình viên. Nó giúp trao đổi thông tin và hiểu rõ ý tưởng của nhau dễ dàng hơn.
 <figure>
-  <img src="../img/img_02.jpg" width="512">
+  <img src="../img/img_02.JPG" width="512">
   <figcaption>The Class Diagram</figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ Tất cả những người này đều quan tâm đến các khía cạnh khác
 > Biểu đồ cộng tác là một minh họa về các mối quan hệ và tương tác giữa các đối tượng phần mềm trong UML. Thay vì hiểu thị luồng thông báo, nó mô tả kiến trúc của đối tượng có trong hệ thống vì nó dựa trên lập trình Hướng đối tượng. Một đối tượng bao gồm một số tính năng. Nhiều dối tượng hiện diện trong hệ thống được kết nối với nhau.
 Biểu đồ cộng tác, còn được gọi là biểu đồ giao tiếp, được sử dụng để mô tả kiến trúc của đối tượng trong hệ thống.
 <figure>
-  <img src="../img/img_03.jpg" width="512">
+  <img src="../img/img_03.JPG" width="512">
   <figcaption>The Collaboration Diagram</figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ Biểu đồ cộng tác, còn được gọi là biểu đồ giao tiếp, đư
 > Biểu đồ tuần tự (Sequence Diagram) mô tả luồng hoạt động một số chức năng quan trọng / phức tạp. Ví dụ: chức năng thanh toán, chức năng booking.
 
 <figure>
-  <img src="../img/img_04.jpg" width="512">
+  <img src="../img/img_04.JPG" width="512">
   <figcaption>The Sequence Diagram</figcaption>
 </figure>
 
