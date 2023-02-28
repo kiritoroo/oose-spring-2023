@@ -7,9 +7,9 @@
   <figcaption>Ký hiệu của actor</figcaption>
 </figure>
 
-    Actor không chỉ là con người mà có thể bất cứ điều gì bên ngoài. 
+ Actor không chỉ là con người mà có thể bất cứ điều gì bên ngoài. 
 
-    Một Actor có thể tương tác với nhiều User Case đơn lẻ. Và một User Case có thể có nhiều Actor tương tác với nó.
+Một Actor có thể tương tác với nhiều User Case đơn lẻ. Và một User Case có thể có nhiều Actor tương tác với nó.
 
 <figure>
   <img src="../img/img3.png">
@@ -28,7 +28,7 @@
 * Gúp tạo hướng dẫn sử dụng.
 
 ## Use Case Granularity
-    Trong một tình huống cụ thể thì khó quyết địn mức độ chi tiết của UserCase.
+Trong một tình huống cụ thể thì khó quyết địn mức độ chi tiết của UserCase.
 
 <figure>
   <img src="../img/img4.png">
@@ -37,9 +37,7 @@
 
 => Nhiều UserCase và trở thành phức tạp.
 
-!!! note "Các vấn đề của mô hình thác nước : "
-
-    Để xử lý phức tạp của hệ thống. Cách tốt nhất là giữ nguyên tắc *UserCase phải đáp ứng mục tiêu cho Actor*
+Để xử lý phức tạp của hệ thống. Cách tốt nhất là giữ nguyên tắc *UserCase phải đáp ứng mục tiêu cho Actor*
 
 
 
@@ -56,24 +54,34 @@
 
 **Summary**
 
-        •	Use Case Name
-        •   Use Case ID
-        •	Use Case Description
-        •	Actor
-        •	Priority
-        •	Trigger.
-        •	Pre-Condition
-        •	Post-Condition
+  •	Use Case Nam
+
+  •   Use Case ID
+
+  •	Use Case Description
+
+  •	Actor
+
+  •	Priority
+
+  •	Trigger.
+
+  •	Pre-Condition
+
+  •	Post-Condition
+
 **Flow**
 
-    •	Basic Flow
-    •	Alternative Flow
-    •	Exception Flow: 
+  •	Basic Flow
 
-**Additional Ìnfomation**
+  •  Alternative Flow
 
-    •	Business Rule
-    •	Non-Funtional Requirement
+  •	Exception Flow: 
+
+**Additional Infomation**
+
+  •	Business Rule
+
+  •	Non-Funtional Requirement
 
 
-## Use Cases at the Elaboration Phase
